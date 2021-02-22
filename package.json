@@ -1,0 +1,24 @@
+{
+  "name": "MedicalResourcesService",
+  "version": "1.0.0",
+  "description": "此程序为 医疗资源调度系统 的后端。采用nodeJS进行进行编写。",
+  "main": "app.js",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XiaMin-sisi/graduationDesgin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XiaMin-sisi/graduationDesgin/issues"
+  },
+  "homepage": "https://github.com/XiaMin-sisi/graduationDesgin#readme"
+}
