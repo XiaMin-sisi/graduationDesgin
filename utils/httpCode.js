@@ -1,5 +1,5 @@
 module.exports={
-    httpcode:{
+    httpCode:{
     "200":"ok",
     "404":"Not Found",
     "501":"请求方式不正确",
