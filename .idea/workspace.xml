@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb22d33b-4ea4-42be-8535-51d6008a80b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hospitalInfo/alterInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hospitalInfo/getHpList.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hospitalInfo/getHpInfoByNum.js" beforeDir="false" afterPath="$PROJECT_DIR$/hospitalInfo/getHpInfoByNum.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,8 @@
       <workItem from="1613812115401" duration="7201000" />
       <workItem from="1613894073141" duration="19519000" />
       <workItem from="1613960343724" duration="6258000" />
-      <workItem from="1614004285054" duration="3767000" />
+      <workItem from="1614004285054" duration="4995000" />
+      <workItem from="1614051319275" duration="1979000" />
     </task>
     <servers />
   </component>
