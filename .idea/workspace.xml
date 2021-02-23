@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb22d33b-4ea4-42be-8535-51d6008a80b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hospitalInfo/getHpList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/alterAdminInfoByNum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/getAdminInfoByNum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/volunteer/alterVolInfoByNum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/volunteer/getVolInfoByNum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/volunteer/getVolInfoList.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +56,9 @@
       <workItem from="1613894073141" duration="19519000" />
       <workItem from="1613960343724" duration="6258000" />
       <workItem from="1614004285054" duration="4995000" />
-      <workItem from="1614051319275" duration="1979000" />
+      <workItem from="1614051319275" duration="3676000" />
+      <workItem from="1614076778647" duration="2000" />
+      <workItem from="1614087932445" duration="4659000" />
     </task>
     <servers />
   </component>
