@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb22d33b-4ea4-42be-8535-51d6008a80b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/outdata.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downLoad/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/addResource.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/addResourceToHS.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/applyResource.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/deleteResource.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/getHospitalResource.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/getResourceIdList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/getResourceList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploadFile/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/alterInfo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/getInfo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/getResponseObj.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/getTBAndParByRole.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/mysqlQyery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/alterPwd.js" beforeDir="false" afterPath="$PROJECT_DIR$/user/alterPwd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/user/login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/listen.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/listen.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +106,7 @@
       <workItem from="1621218661067" duration="10423000" />
       <workItem from="1621413971860" duration="4829000" />
       <workItem from="1621430486764" duration="18021000" />
-      <workItem from="1621519046385" duration="30541000" />
+      <workItem from="1621519046385" duration="30777000" />
     </task>
     <servers />
   </component>
