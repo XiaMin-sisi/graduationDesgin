@@ -15,10 +15,11 @@ module.exports=(obj,callback)=>{
             return ;
         }
         let connect=mysql.createConnection(mysqlConf);
-        let sql=`update accountTb set accountPwd = ${obj.postParams.newPwd} where accountNum = ${obj.postParams.userName} and accountPwd = ${obj.postParams.oldPwd}`;
+        let sql=`update accountTb set accountPwd = '${obj.postParams.newPwd}' where accountNum = ${obj.postParams.userName} and accountPwd ='${obj.postParams.oldPwd}'`;
         connect.query(sql,(error,res)=>{
             if(error)
             {
+                console.log(error);
                 callback(200,{success:false,message:"修改失败",code:1003,data:error})
             }
             else {

@@ -4,7 +4,8 @@
   "description": "此程序为 医疗资源调度系统 的后端。采用nodeJS进行进行编写。",
   "main": "app.js",
   "dependencies": {
-    "mysql": "^2.18.1"
+    "mysql": "^2.18.1",
+    "node-uuid": "^1.4.8"
   },
   "devDependencies": {},
   "scripts": {

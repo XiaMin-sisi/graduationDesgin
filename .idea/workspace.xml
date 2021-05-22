@@ -2,20 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb22d33b-4ea4-42be-8535-51d6008a80b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/admin/alterAdminInfoByNum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/getAdminInfoByNum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/volunteer/alterVolInfoByNum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/volunteer/getVolInfoByNum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/volunteer/getVolInfoList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/outdata.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downLoad/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/addResource.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/addResourceToHS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/applyResource.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/deleteResource.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/getHospitalResource.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/getResourceIdList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/getResourceList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadFile/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/alterInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/getInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/getResponseObj.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/getTBAndParByRole.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/mysqlQyery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/alterPwd.js" beforeDir="false" afterPath="$PROJECT_DIR$/user/alterPwd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/user/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/listen.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/listen.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1ojW6WPF05edJ3TRxJbLj0Xji9O" />
   <component name="ProjectViewState">
@@ -27,7 +57,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.4" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.14.31" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ToLearnNode" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/intelab-wfe-3-0/SmartAdminCRM" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -35,12 +65,15 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\夏敏\项目\nodeJS\MedicalResourcesService" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\夏敏\项目\nodeJS\MedicalResourcesService\public\avatar" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -58,7 +91,43 @@
       <workItem from="1614004285054" duration="4995000" />
       <workItem from="1614051319275" duration="3676000" />
       <workItem from="1614076778647" duration="2000" />
-      <workItem from="1614087932445" duration="4659000" />
+      <workItem from="1614087932445" duration="4766000" />
+      <workItem from="1614096170227" duration="36000" />
+      <workItem from="1614150193751" duration="208000" />
+      <workItem from="1614175052192" duration="1631000" />
+      <workItem from="1614242281817" duration="5460000" />
+      <workItem from="1614318811090" duration="1382000" />
+      <workItem from="1614522250872" duration="4032000" />
+      <workItem from="1614585240389" duration="2939000" />
+      <workItem from="1614666902190" duration="6000" />
+      <workItem from="1614677960837" duration="627000" />
+      <workItem from="1614694339647" duration="1841000" />
+      <workItem from="1614758108408" duration="18000" />
+      <workItem from="1614767053914" duration="2294000" />
+      <workItem from="1614780135819" duration="3601000" />
+      <workItem from="1614829189843" duration="4048000" />
+      <workItem from="1614856275531" duration="1281000" />
+      <workItem from="1614867150374" duration="4288000" />
+      <workItem from="1615003430731" duration="4803000" />
+      <workItem from="1615013764959" duration="3520000" />
+      <workItem from="1615815649655" duration="1510000" />
+      <workItem from="1616146771025" duration="47000" />
+      <workItem from="1617196032802" duration="688000" />
+      <workItem from="1617779785731" duration="20087000" />
+      <workItem from="1618277618622" duration="1804000" />
+      <workItem from="1618300693971" duration="19000" />
+      <workItem from="1618901590719" duration="244000" />
+      <workItem from="1618903650403" duration="6974000" />
+      <workItem from="1618972784423" duration="11223000" />
+      <workItem from="1619078801405" duration="2056000" />
+      <workItem from="1619514971188" duration="2766000" />
+      <workItem from="1620647482015" duration="2325000" />
+      <workItem from="1620704261820" duration="2641000" />
+      <workItem from="1621218061685" duration="428000" />
+      <workItem from="1621218661067" duration="10423000" />
+      <workItem from="1621413971860" duration="4829000" />
+      <workItem from="1621430486764" duration="18021000" />
+      <workItem from="1621519046385" duration="30541000" />
     </task>
     <servers />
   </component>
@@ -66,21 +135,25 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1613810292432">
+    <state x="500" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1618974052696">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1613810292432" />
-    <state x="270" y="57" key="SettingsEditor" timestamp="1613813421908">
+    <state x="500" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1618974052696" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1621522652812">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1613813421908" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1621522652812" />
+    <state x="270" y="57" key="SettingsEditor" timestamp="1618974510391">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1618974510391" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1613800355999">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1613800355999" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1613918867486">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1621433650660">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1613918867486" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1621433650660" />
   </component>
 </project>
