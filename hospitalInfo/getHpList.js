@@ -5,6 +5,7 @@ let {mysql,mysqlConf}= require('../utils/connectMysql');
 
 module.exports=(obj,callback)=>{
     if(obj.method==="get"){
+
         if(false)
         {
             callback(502,"必要参数缺失或不正确");
