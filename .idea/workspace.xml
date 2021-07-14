@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb22d33b-4ea4-42be-8535-51d6008a80b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/crawler/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hospitalInfo/getHpListPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patient/addPatient.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patient/getPatientList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/getApplyList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/getSuppliessNameList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/volunteer/volunteerToHs.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hospitalInfo/getHpList.js" beforeDir="false" afterPath="$PROJECT_DIR$/hospitalInfo/getHpList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/applyResource.js" beforeDir="false" afterPath="$PROJECT_DIR$/resource/applyResource.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volunteer/getVolInfoList.js" beforeDir="false" afterPath="$PROJECT_DIR$/volunteer/getVolInfoList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/regist.js" beforeDir="false" afterPath="$PROJECT_DIR$/user/regist.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +108,12 @@
       <workItem from="1621430486764" duration="18021000" />
       <workItem from="1621519046385" duration="36995000" />
       <workItem from="1621930441131" duration="525000" />
-      <workItem from="1621949942752" duration="40580000" />
+      <workItem from="1621949942752" duration="42335000" />
+      <workItem from="1622292295790" duration="37000" />
+      <workItem from="1622875906535" duration="2667000" />
+      <workItem from="1623069863795" duration="3212000" />
+      <workItem from="1623287381614" duration="852000" />
+      <workItem from="1623904036785" duration="11000" />
     </task>
     <servers />
   </component>

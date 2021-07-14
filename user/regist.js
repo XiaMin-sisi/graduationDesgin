@@ -17,7 +17,7 @@ module.exports=(obj,callback)=>{
         }
         let connect=mysql.createConnection(mysqlConf);
         let sql=`insert into accountTb(accountNum,accountPwd,accountRole) values(?,?,?)`;
-        connect.query(sql,[obj.getParams.userName,obj.getParams.passWord?obj.getParams.passWord:'123456',obj.getParams.userRole],(error,res)=>{
+        connect.query(sql,[obj.getParams.userName,obj.getParams.passWord?obj.getParams.passWord:'e10adc3949ba59abbe56e057f20f883e',obj.getParams.userRole],(error,res)=>{
             if(error)
             {
                 if(error.errno==1062)
